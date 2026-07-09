@@ -28,6 +28,3 @@ This project presents the preliminary mechanical design of a quadruped robot. Th
 - Foot slippage
 - Structural stress
 - Battery weight distribution
-
-## Author
-**Milaf Ali ALjuaid**
